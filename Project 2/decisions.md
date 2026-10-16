@@ -105,6 +105,8 @@ Full build plan: `~/.claude/plans/buzzing-meandering-stonebraker.md`
 - Committing data redistributes it, which needs the full attribution set (one deliberate release is easier to get right).
 - California adopted Common Core as written, which keeps the state-license question for the sample simple.
 
+**Update (2026-10-16):** the data was briefly committed to a local branch for versioning, then taken back out before the first push, because the repo is public and four Learning Commons files are over GitHub's 100 MB limit. The data folders stay git-ignored and are kept on disk only. The answer-key reviews (`reviews.jsonl`) and the LLM cache (`llm_cache/`) are not backed up by git, so keep a separate copy of `data/interim/im_first_edition_pilot/`.
+
 ## 16. Answer keys are computed by us and checked by a person
 **Date:** 2026-10-14
 **Context:** first-edition IM problems are public and CC BY 4.0 on `im.kendallhunt.com`, but the solutions are behind a teacher login. Collecting them in bulk with a login isn't allowed under #10 and IM Terms §9.
