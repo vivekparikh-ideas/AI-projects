@@ -1,7 +1,3 @@
-# Project notes kept local
-decisions.md
-DATA_SOURCES.md
-
 # Data is rebuilt from scripts. Only the provenance manifest is committed.
 data/raw/*
 !data/raw/MANIFEST.json
