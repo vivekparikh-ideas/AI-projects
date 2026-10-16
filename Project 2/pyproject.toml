@@ -1,0 +1,27 @@
+[project]
+name = "gap-finder"
+version = "0.1.0"
+description = "Find the K-8 math skill behind tonight's homework, from open public data."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "langchain-openai>=1.7.2",
+    "langgraph>=1.2.15",
+    "langgraph-checkpoint-sqlite>=3.1.2",
+    "neo4j>=6.4.0",
+    "pinecone>=10.0.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "requests>=2.32",
+    "streamlit>=1.66.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

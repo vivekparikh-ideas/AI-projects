@@ -1,0 +1,58 @@
+/* Gap Finder: graph paper, fraction tiles, Fredoka headings, Lexend body (decisions.md #19). */
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Lexend:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap");
+
+.stApp {
+  background-color: #F6F8FC;
+  background-image: linear-gradient(#E6EBF4 1px, transparent 1px), linear-gradient(90deg, #E6EBF4 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+.stApp, .stMarkdown, .stApp button, .stApp input, .stApp textarea, .stApp label { font-family: "Lexend", "Trebuchet MS", sans-serif; color: #1C2541; }
+[data-testid="stHeader"] { background: transparent; }
+.block-container, [data-testid="stMainBlockContainer"] { max-width: 460px; padding: 0.75rem 1rem 3rem; }
+
+/* Type */
+.gf-h1 { font-family: "Fredoka", "Trebuchet MS", sans-serif; font-weight: 700; font-size: 30px; line-height: 1.1; margin: 4px 0 6px; letter-spacing: -0.3px; }
+.gf-h2 { font-family: "Fredoka", sans-serif; font-weight: 700; font-size: 22px; margin: 6px 0; }
+.gf-lede { font-size: 15px; line-height: 1.5; color: #3F4862; margin: 0; }
+.gf-muted { font-size: 13px; color: #59627A; }
+.gf-eyebrow { font-size: 12px; font-weight: 600; color: #59627A; letter-spacing: 0.6px; text-transform: uppercase; }
+.gf-code { font-family: "JetBrains Mono", monospace; font-size: 12px; background: #EEF2FF; color: #2238A8; padding: 2px 7px; border-radius: 6px; }
+
+/* Cards and notes */
+.gf-card { background: #FFFFFF; border-radius: 22px; box-shadow: 0 3px 0 #D9E0EC; padding: 18px; display: flex; flex-direction: column; gap: 10px; }
+.gf-note { border-radius: 14px; padding: 10px 12px; font-size: 13px; line-height: 1.4; display: flex; gap: 10px; align-items: center; }
+.gf-note.together { background: #E3F5F2; border: 2px solid #1FA595; font-size: 13.5px; }
+.gf-note.coverage { background: #FFF4DA; border: 1.5px solid #F4B740; }
+.gf-note.wording { background: #E3F5F2; }
+.gf-pill { display: inline-flex; align-items: center; gap: 5px; padding: 4px 10px; border-radius: 999px; font-size: 12.5px; font-weight: 600; }
+.gf-pill.high { background: #E2F4EA; color: #1E6E47; }
+.gf-pill.medium { background: #FFF4DA; color: #6B4A00; }
+.gf-pill.low { background: #FBE3DE; color: #9E3322; }
+.gf-chip { padding: 4px 10px; border-radius: 999px; font-size: 12px; font-weight: 600; }
+
+/* Buttons */
+.stApp [data-testid="stBaseButton-primary"] {
+  background: #3550D6; border: 0; border-radius: 16px; min-height: 56px;
+  font-family: "Fredoka", sans-serif; font-weight: 600; font-size: 19px; color: #FFFFFF;
+  box-shadow: 0 4px 0 #2238A8;
+}
+.stApp [data-testid="stBaseButton-primary"]:hover { background: #2E47C4; color: #FFFFFF; }
+.stApp [data-testid="stBaseButton-primary"]:disabled { background: #AEB9E6; box-shadow: none; }
+.stApp [data-testid="stBaseButton-secondary"] {
+  background: #FFFFFF; border: 2px solid #C9D2E3; border-radius: 16px; min-height: 52px;
+  font-family: "Fredoka", sans-serif; font-weight: 600; font-size: 16px; color: #1C2541;
+}
+.stApp [data-testid="stBaseButton-tertiary"] { color: #3550D6; font-weight: 500; }
+.stApp button p { font-family: inherit; font-size: inherit; }
+
+/* Inputs */
+.stApp textarea { font-family: "Fredoka", sans-serif !important; font-size: 22px !important; border-radius: 14px; }
+.st-key-answer-box input { font-family: "Fredoka", sans-serif !important; font-size: 26px !important; min-height: 56px; }
+
+/* The check */
+.st-key-problem-card { background: #FFFFFF; border-radius: 24px; box-shadow: 0 3px 0 #D9E0EC; padding: 20px 20px 22px; }
+.st-key-problem-card .stMarkdown p { font-family: "Fredoka", sans-serif; font-weight: 500; font-size: 25px; line-height: 1.5; }
+.st-key-compare button { min-height: 72px !important; font-size: 30px !important; }
+
+/* Chat */
+.stApp [data-testid="stChatMessage"] { background: #FFFFFF; border-radius: 16px; }

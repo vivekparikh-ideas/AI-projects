@@ -1,0 +1,87 @@
+{
+  "description": "Provenance record for every raw file in data/raw. One entry per downloaded file. Raw files are never edited; re-download into a new versioned folder instead.",
+  "files": [
+    {
+      "path": "learning_commons_v1.15.0/nodes.jsonl",
+      "source": "Learning Commons Knowledge Graph",
+      "version": "v1.15.0",
+      "url": "https://cdn.learningcommons.org/knowledge-graph/v1.15.0/exports/nodes.jsonl",
+      "retrieved": "2026-10-14",
+      "bytes": 352226380,
+      "lines": 303187,
+      "sha256": "bfd193ab7c293a870bc1fe4dec12ddade461a1e30362f196b4b323b552da6914",
+      "license": "CC BY 4.0 (Knowledge Graph); each row also carries an attributionStatement naming the upstream provider",
+      "license_url": "https://docs.learningcommons.org/knowledge-graph/resources/license",
+      "terms_url": "https://docs.learningcommons.org/knowledge-graph/resources/terms-of-use",
+      "attribution": "Use each row's attributionStatement verbatim (230 distinct statements for standards alone).",
+      "v2_allowed": "yes, subject to per-state review of standards rows",
+      "contents": {
+        "StandardsFrameworkItem": 265759,
+        "LearningComponent": 10580,
+        "Activity (IM v.360 scope and sequence, metadata only)": 8173,
+        "Misconception (Eedi)": 8117,
+        "Assessment (IM v.360, metadata only)": 4516,
+        "Lesson (IM v.360, metadata only)": 2550,
+        "Construct (Eedi)": 2258,
+        "LessonGrouping (IM v.360)": 764,
+        "StandardsFramework": 252,
+        "GuidanceFrameworkItem (ELSF)": 198,
+        "Course (IM v.360)": 18,
+        "GuidanceFramework (ELSF)": 3
+      }
+    },
+    {
+      "path": "learning_commons_v1.15.0/relationships.jsonl",
+      "source": "Learning Commons Knowledge Graph",
+      "version": "v1.15.0",
+      "url": "https://cdn.learningcommons.org/knowledge-graph/v1.15.0/exports/relationships.jsonl",
+      "retrieved": "2026-10-14",
+      "bytes": 602932651,
+      "lines": 531208,
+      "sha256": "fc04eb539180ed92afc643fe6bdf8e3ed7228733fe1038b6f102a10df7aa2c39",
+      "license": "CC BY 4.0, except Coherence Map edges (CC0, Student Achievement Partners)",
+      "license_url": "https://docs.learningcommons.org/knowledge-graph/resources/license",
+      "terms_url": "https://docs.learningcommons.org/knowledge-graph/resources/terms-of-use",
+      "attribution": "Use each row's attributionStatement verbatim.",
+      "v2_allowed": "yes",
+      "contents": {
+        "hasChild (standards hierarchy)": 266558,
+        "supports (LearningComponent -> Standard)": 147589,
+        "hasEducationalAlignment (IM -> Standard)": 52807,
+        "hasStandardAlignment (state -> Common Core crosswalk, with jaccard)": 27043,
+        "hinders (Eedi Misconception -> Construct)": 19294,
+        "hasPart (IM structure)": 15944,
+        "buildsTowards (Coherence Map prerequisites)": 757,
+        "hasReference (IM)": 472,
+        "relatesTo (Coherence Map)": 284,
+        "hasDependency (IM unit order)": 269,
+        "mutuallyExclusiveWith (IM assessments)": 192
+      }
+    },
+    {
+      "path": "im_first_edition/",
+      "source": "IM K–12 Math, first edition (public pages on im.kendallhunt.com)",
+      "version": "first edition: K–5 © 2021 Illustrative Mathematics; 6–8 © 2017–2019 Open Up Resources, © 2019 Illustrative Mathematics",
+      "url": "https://im.kendallhunt.com",
+      "retrieved": "2026-10-14",
+      "pages": 193,
+      "per_page_record": "im_first_edition/fetch_log.jsonl (url, status, sha256, bytes, license check)",
+      "collected_by": "scripts/collect_im_pilot.py (public pages only, no login, one request every 2 seconds)",
+      "scope": "pilot: K–5 grades 3–5 unit practice pages and fraction-unit lesson pages; grade 6 unit 4 lessons, practice pages and referenced lessons",
+      "license": "CC BY 4.0 (verified on every page; none NonCommercial)",
+      "license_url": "https://www.illustrativemathematics.org/terms-of-use",
+      "attribution": "Based on IM® K–12 Math authored by Illustrative Mathematics and licensed under CC BY 4.0.",
+      "v2_allowed": "yes",
+      "not_included": "solutions, student responses and cool-downs (behind teacher login; see decisions.md #16)"
+    }
+  ],
+  "pending": [
+    {
+      "source": "Progressions for the Common Core State Standards in Mathematics (May 2023)",
+      "license": "CC BY 4.0",
+      "status": "deferred (2026-10-14)",
+      "reason": "Host webnew.ped.state.nm.us is down; the Wayback Machine copy returned HTTP 429 (rate limited).",
+      "next_step": "When the host is back, download the file into data/raw/progressions_2023/ and add a files[] entry."
+    }
+  ]
+}

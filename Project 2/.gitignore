@@ -1,0 +1,17 @@
+# Project notes kept local
+decisions.md
+DATA_SOURCES.md
+
+# Data is rebuilt from scripts. Only the provenance manifest is committed.
+data/raw/*
+!data/raw/MANIFEST.json
+data/interim/
+data/processed/
+
+# Python and secrets
+__pycache__/
+.venv/
+.env
+
+# Agent session progress (deleted after 24 hours)
+data/sessions.sqlite*
