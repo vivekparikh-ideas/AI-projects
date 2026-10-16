@@ -1,0 +1,16 @@
+# Data is rebuilt from scripts. Only the provenance manifest is committed (decision #15).
+data/raw/*
+!data/raw/MANIFEST.json
+data/interim/
+data/processed/
+
+# Python and secrets
+__pycache__/
+.venv/
+.env
+
+# Editor settings
+.vscode/
+
+# Agent session progress (deleted after 24 hours)
+data/sessions.sqlite*
