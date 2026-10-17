@@ -1,0 +1,26 @@
+{
+  "nodes": {
+    "SkillComponent": 6445,
+    "Framework": 52,
+    "Standard": 26820,
+    "Lesson": 145,
+    "Problem": 221
+  },
+  "rels": {
+    "HAS_CHILD": 26658,
+    "RELATES_TO": 176,
+    "SUPPORTS": 50147,
+    "CROSSWALKS_TO": 13313,
+    "BUILDS_TOWARDS": 454,
+    "ADDRESSES": 243,
+    "BUILDS_ON": 59,
+    "PREPARES_FOR": 59,
+    "ASSESSES": 221
+  },
+  "total_nodes": 33683,
+  "total_rels": 91330,
+  "unmatched_ccss_codes": {
+    "5.NF": 1,
+    "4.NBT": 1
+  }
+}
