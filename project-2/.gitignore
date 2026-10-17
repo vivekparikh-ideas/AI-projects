@@ -2,7 +2,10 @@
 data/raw/*
 !data/raw/MANIFEST.json
 data/interim/
-data/processed/
+data/processed/*
+!data/processed/graph/
+data/processed/graph/*
+!data/processed/graph/summary.json
 
 # Python and secrets
 __pycache__/
