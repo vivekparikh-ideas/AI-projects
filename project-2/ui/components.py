@@ -49,7 +49,7 @@ def logo() -> str:
         + ("border:1.5px dashed #59627A;box-sizing:border-box;" if dashed else f"background:{c};") + '"></div>'
         for h, c, dashed in bars)
     return (f'<div style="display:flex;align-items:center;gap:10px"><div aria-hidden="true" style="display:flex;align-items:flex-end;gap:2px;height:18px">{parts}</div>'
-            '<span style="font-family:Fredoka,sans-serif;font-weight:700;font-size:21px;color:#1C2541">Gap Finder</span></div>')
+            '<span style="font-family:Fredoka,sans-serif;font-weight:700;font-size:21px;color:#1C2541"> Tilly! - Math Skills Gap Finder</span></div>')
 
 
 def tilly(px: int = 56, mood: str = "happy", rotate: int = -8) -> str:
