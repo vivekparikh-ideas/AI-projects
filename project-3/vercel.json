@@ -1,0 +1,22 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "web": {
+      "root": "web"
+    },
+    "api": {
+      "root": ".",
+      "entrypoint": "main:app",
+      "functions": {
+        "main.py": {
+          "maxDuration": 300,
+          "excludeFiles": "{web/**,tests/**,evals/**,design/**,docs/**,runs/**,.cache/**,.venv/**}"
+        }
+      }
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": { "service": "api" } },
+    { "source": "/(.*)", "destination": { "service": "web" } }
+  ]
+}

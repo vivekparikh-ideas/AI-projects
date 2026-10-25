@@ -3,3 +3,11 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+.env.*
+!.env.example
+*.egg-info/
+.pytest_cache/
+node_modules/
+.vercel
+.vscode/
+*.log
