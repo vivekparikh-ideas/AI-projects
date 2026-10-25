@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+runs/
+.env
+.cache/
+fund.yaml
+
+# Promo video and its render script (local marketing asset, ~20 MB mp4)
+design/promo/
+*.mp4
+*.wav
+node_modules/
+
+# Generated eval output (rerun with evals/run_evals.py)
+evals/results/
+
+# Secrets: keep any .env.example, ignore every other variant
+.env.*
+!.env.example
+
+# Tooling and OS noise
+.DS_Store
+.vscode/
+.idea/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.log
+.vercel

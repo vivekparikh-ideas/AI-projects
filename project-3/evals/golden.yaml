@@ -1,0 +1,28 @@
+# Golden set for the LLM roles (D-012): 25 US large caps across sectors, including ones whose
+# SEC filings lack the usual tags (banks have no gross profit), to test data robustness too.
+tickers:
+  - NVDA  # semis
+  - AMD
+  - AVGO
+  - INTC
+  - AAPL  # mega-cap tech
+  - MSFT
+  - GOOGL
+  - META
+  - AMZN
+  - NFLX
+  - TSLA  # autos
+  - JPM   # banks: no gross margin in XBRL
+  - BAC
+  - XOM   # energy
+  - CVX
+  - JNJ   # healthcare
+  - PFE
+  - UNH
+  - LLY
+  - KO    # staples
+  - PG
+  - WMT
+  - COST
+  - BA    # industrials
+  - DIS   # media

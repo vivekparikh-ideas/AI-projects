@@ -1,0 +1,10 @@
+.venv
+.cache
+runs
+evals/results
+fund.yaml
+.env*
+web/node_modules
+web/.next
+**/__pycache__
+.pytest_cache

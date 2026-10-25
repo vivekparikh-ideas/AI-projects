@@ -1,0 +1,22 @@
+# Jargon → plain definitions, shown as hover tooltips in the UI (D-007).
+NAV: Net asset value, what the whole fund is worth right now.
+bps: Basis points. 1 bp is one hundredth of a percent (0.01%).
+RSI: Relative Strength Index, 0–100. Above 70 often means a stock rose too fast; below 30, fell too fast.
+DMA: Daily moving average, the average closing price over the last N days (50-DMA, 200-DMA).
+VWAP: Volume-weighted average price, the average price paid today, weighted by shares traded.
+VaR: Value at Risk. 99% 1-day VaR is a loss we expect to exceed only 1 day in 100.
+wash sale: Tax rule. Buying a stock within 30 days of selling it at a loss cancels the tax deduction.
+dilution: New shares issued (often as employee pay) that shrink each existing share's slice.
+SBC: Stock-based compensation, employees paid in shares, a source of dilution.
+buyback: The company buying its own shares, which shrinks the share count.
+fwd P/E: Share price divided by next year's expected earnings per share; higher means pricier.
+EV/EBITDA: Company value divided by operating earnings; a valuation measure that ignores debt mix.
+FCF yield: Free cash flow as a percent of company value; higher means more cash per dollar paid.
+slippage: Difference between the price we paid and the market price when we started buying.
+TWAP: Time-weighted average price, splitting an order into equal slices over time.
+NBBO: National best bid and offer, the best buy and sell prices across exchanges.
+tax lot: A record of one purchase (shares, price, date), used to compute taxes when sold.
+conviction: How strongly the research supports buying, 0–10.
+beta: How much a stock tends to move when the market moves 1%.
+correlation: How closely two investments move together, from -1 to 1.
+10b5-1: A pre-scheduled insider trading plan; sales under it are less of a warning sign.

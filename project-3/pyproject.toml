@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nexus-investment-engine"
+version = "0.1.0"
+description = "Nexus Investment Engine: an all-agent paper-trading fund"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=1.2",
+    "pydantic>=2.7",
+    "rich>=13",
+    "pyyaml>=6",
+    "anthropic>=2.1",
+    "httpx>=0.28",
+    "yfinance>=1.7",
+    "python-dotenv>=1.2",
+    "fastapi>=0.115",
+    "psycopg[binary]>=3.2",
+    "langgraph-checkpoint-postgres>=3.2",
+    "psycopg-pool>=3.3",
+    "langsmith>=0.14",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["nexus*"]
+
+[tool.setuptools.package-data]
+nexus = ["glossary.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
