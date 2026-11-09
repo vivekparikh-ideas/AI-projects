@@ -100,6 +100,9 @@ def test_csv_export_lists_every_case(tmp_path):
     assert n == len(rows) == len(C.ALL) == 78
     assert not any(r["case_id"] in ("SIG-JPM-4", "PM-14") for r in rows)
     assert rows[0].keys() == set(C.CSV_COLUMNS)
+    one = tmp_path / "phase1.csv"
+    assert R.export_csv(one, phase=1) == 58
+    assert {r["ticker"].split()[0] for r in csv.DictReader(one.open())} == set(C.PHASE1_TICKERS)
 
 
 class StubPM:
