@@ -355,13 +355,15 @@ def run_cases(selected: list[C.Case], reruns: int, snapshot_dir: Path, workers: 
     return by_case
 
 
-def export_csv(path: Path) -> int:
+def export_csv(path: Path, phase: int | None = None) -> int:
+    """All cases, or only one phase's (phase 1 = the 5 tickers that have been run)."""
+    chosen = [c for c in C.ALL if phase is None or c.phase == phase]
     with path.open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=C.CSV_COLUMNS)
         w.writeheader()
-        for c in C.ALL:
+        for c in chosen:
             w.writerow(C.csv_row(c))
-    return len(C.ALL)
+    return len(chosen)
 
 
 def offline_provenance(tickers: list[str], snapshot_dir: Path, command: str) -> dict[str, Any]:
@@ -413,7 +415,7 @@ def main() -> int:
     ap.add_argument("--budget", type=float, help="stop starting runs once this many USD are spent (default 1.5 × estimate)")
     ap.add_argument("--yes", action="store_true", help="required for runs estimated above $2")
     ap.add_argument("--dry-run", action="store_true", help="list the cases and the estimate, run nothing")
-    ap.add_argument("--csv", action="store_true", help="export the cases to evals/golden_cases.csv and exit")
+    ap.add_argument("--csv", action="store_true", help="export the cases to evals/golden_cases.csv (all) and golden_cases_phase1.csv (5 tickers), then exit")
     ap.add_argument("--offline", action="store_true", help="free checks only (no model): coverage, planted inputs, code guards, dossiers")
     ap.add_argument("--snapshots", default=str(C.SNAPSHOT_DIR), help=argparse.SUPPRESS)
     ap.add_argument("--regrade", metavar="RESULT", help="grade a saved run again with the current graders (free, no model calls)")
@@ -435,8 +437,9 @@ def main() -> int:
         print(f"Regraded {path.name}: {result['summary']['total'].get('PASS', 0)}/{result['summary']['cases']} pass, {len(changed)} changed.")
         return 0
     if args.csv:
-        out = ROOT / "evals" / "golden_cases.csv"
-        print(f"Wrote {export_csv(out)} cases to {out.relative_to(ROOT)}")
+        out, out1 = ROOT / "evals" / "golden_cases.csv", ROOT / "evals" / "golden_cases_phase1.csv"
+        print(f"Wrote {export_csv(out)} cases (all 25 tickers) to {out.relative_to(ROOT)}")
+        print(f"Wrote {export_csv(out1, phase=1)} cases (Phase 1: NVDA, JPM, KO, TSLA, PFE) to {out1.relative_to(ROOT)}")
         return 0
 
     from rich.console import Console
