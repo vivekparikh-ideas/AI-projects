@@ -1,0 +1,158 @@
+{
+ "ticker": "NVDA",
+ "as_of": "2026-11-05",
+ "recorded_at": "2026-11-06T02:31:20+00:00",
+ "recorded_from": "live",
+ "calls": {
+  "company": "NVIDIA Corporation",
+  "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-09-03"
+   },
+   {
+    "form": "10-Q",
+    "date": "2026-08-26"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-02-25"
+   }
+  ],
+  "financials|1": {
+   "period": "CY2026Q2",
+   "revenue_q_usd_b": 96.22,
+   "revenue_growth_pct": 105.9,
+   "gross_margin_pct": 75.0,
+   "sbc_pct_rev": 3.0,
+   "net_share_change_pct": -1.0,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 102.72,
+   "net_income_usd_b": 120.07,
+   "receivables_growth_pct": 126.8
+  },
+  "financials|4": {
+   "period": "CY2026Q2",
+   "revenue_q_usd_b": 96.22,
+   "revenue_growth_pct": 105.9,
+   "gross_margin_pct": 75.0,
+   "sbc_pct_rev": 3.0,
+   "net_share_change_pct": -1.0,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 102.72,
+   "net_income_usd_b": 120.07,
+   "receivables_growth_pct": 126.8,
+   "gross_margin_4q": [
+    72.4,
+    73.4,
+    74.9,
+    75.0
+   ]
+  },
+  "section|10-K|risk_factors": "[10-K filed 2026-02-25] The following risk factors should be considered in addition to the other information in this Annual Report on Form 10-K. The following risks could harm our business, financial condition, results of operations or reputation, which could cause our stock price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business, financial condition, results of operations or reputation. Risk Factors Summary Risks Related to Our Industry and Markets •Failure to meet the evolving needs of our industry and markets may adversely impact our financial results. •Competition could adversely impact our market share and financial results. Risks Related to Demand, Supply, and Manufacturing •Long manufacturing lead times and uncertain supply and capacity availability, combined with a failure to estimate customer demand accurately has led and could lead to mismatches between supply and demand. 12 Table of Contents •Dependency on third-party suppliers and their technology to manufacture, assemble, test, or package our products reduces our control over product quantity and quality, manufacturing yields, and product delivery schedules and could harm our business. •Defects in our products have caused and could cause us to incur significant expenses to remediate and could damage our business. Risks Related to Our Global Operating Business •Adverse economic conditions may harm our business. •International sales and operations are a significant part of our business, which exposes us to risks that could harm our business. •Product, system security and data protection incidents or breaches, as well as cyber-attacks could disrupt our operations and adversely affect our financial condition, stock price and reputation. •Business disruptions could harm our operations and financial results. •Climate change may have a long-term impact on our business. •We may not be able to realize the potential benefits of business investments or acquisitions, nor successfully integrate acquisition targets. •A significant amount of our revenue stems from a limited number of partners and distributors and we have a concentration of sales to customers who purchase directly or indirectly from us, and our revenue could be adversely affected if we lose or are prevented from selling to any of these customers. •Commercial arrangements expose us to counterparty risks, which may negatively impact our business, financial condition, ",
+  "section|10-K|mda": "[10-K filed 2026-02-25] Results of Operations A discussion regarding our financial condition and results of operations for fiscal year 2026 compared to fiscal year 2025 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2025 compared to fiscal year 2024 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 26, 2025, filed with the SEC on February 26, 2025, which is available free of charge on the SEC’s website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com. 39 Table of Contents The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. Year Ended Jan 25, 2026Jan 26, 2025 Revenue100.0 %100.0 % Cost of revenue28.9 25.0 Gross profit71.1 75.0 Operating expenses Research and development8.6 9.9 Sales, general and administrative2.1 2.7 Total operating expenses10.7 12.6 Operating income60.4 62.4 Interest income1.1 1.4 Interest expense(0.1)(0.2) Other income, net4.2 0.8 Total other income, net5.2 2.0 Income before income tax65.5 64.4 Income tax expense9.9 8.6 Net income55.6 %55.8 % Reportable Segments Revenue by Reportable Segments Year Ended Jan 25, 2026Jan 26, 2025$ Change% Change ($ in millions) Compute & Networking$193,479 $116,193 $77,286 67 % Graphics22,459 14,304 8,155 57 % Total$215,938 $130,497 $85,441 65 % Operating Income by Reportable Segments Year Ended Jan 25, 2026Jan 26, 2025$ Change% Change ($ in millions) Compute & Networking$130,141 $82,875 $47,266 57 % Graphics9,156 5,085 4,071 80 % Total$139,297 $87,960 $51,337 58 % Compute & Networking revenue – The year over year increase was driven by the major platform shifts – accelerated computing and AI. Revenue from Data Center computing grew 59% driven by demand for our Blackwell computing platform. Revenue from Data Center networking grew 142% driven by the introduction and continued ramp of NVLink compute fabric for GB200 and GB300 systems and the growth of Ethernet and InfiniBand platforms. Graphics revenue – The year over year increase was driven by sales of our Blackwell architecture. Reportable segment operating income – The year over year increase in Compute & Networking segment operating income was driven by growth in revenue, partially offset by a $4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026. The year over year in",
+  "section|10-Q|risk_factors": "[10-Q filed 2026-08-26] Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 25, 2026 and Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended April 26, 2026. Purchasing or owning NVIDIA securities involves investment risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 25, 2026, Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended April 26, 2026, and below. Any one of those risks could harm our business, financial condition and results of operations or reputation, which could cause our stock price to decline. Additional risks, trends and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business, financial condition, results of operations or reputation. Commitments, guarantees, and other commercial arrangements expose us to financial, counterparty and execution risks and may not provide anticipated benefits. To support our operations and growth, we commit capital to secure supply and capacity, obtain cloud services, and lease data center capacity. These arrangements require substantial payments over many years. If future demand, our needs or plans differ from our expectations, we may be unable to reduce these commitments. Future demand may be affected by the ability of customers and partners, including those developing open models, to generate revenue and sustain investment in computing infrastructure. To support our customers’ and partners’ buildout of AI infrastructure, we enter into commercial arrangements, including financial guarantees and other forms of credit support, financing arrangements, and data center leases. Customers or partners may fail to fulfill their financial commitments, secure necessary capital or infrastructure, complete projects on schedule or within budget, or experience financial distress or insolvency. Power constraints, government actions or regulations, permitting delays, or community opposition may delay, restrict or prevent the development or operation of data centers. We may have limited control over these matters. Financing arrangements with certain investment-grade customers, including extended payment terms under large, multi-quarter agreements, will continue to affect the timing of our operating cash flows. We intend to as",
+  "section|10-Q|mda": "[10-Q filed 2026-08-26] Results of Operations The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue. Three Months EndedSix Months Ended Jul 26, 2026Jul 27, 2025Jul 26, 2026Jul 27, 2025 Revenue100.0 %100.0 %100.0 %100.0 % Cost of revenue25.0 27.6 25.0 33.4 Gross profit75.0 72.4 75.0 66.6 Operating expenses Research and development7.4 9.2 7.5 9.1 Sales, general and administrative1.4 2.4 1.5 2.4 Total operating expenses8.8 11.6 9.0 11.5 Operating income66.2 60.8 66.0 55.1 Other income, net8.1 6.0 13.6 3.4 Income before income tax74.3 66.8 79.6 58.5 Income tax expense12.3 10.2 13.2 8.7 Net income62.0 %56.6 %66.4 %49.8 % Revenue and Reportable Segments Revenue by Reportable Segments Three Months EndedSix Months Ended Jul 26, 2026Jul 27, 2025$ Change% ChangeJul 26, 2026Jul 27, 2025$ Change% Change ($ in millions) Compute & Networking$88,299 $41,331 $46,968 114 %$162,850 $80,920 $81,930 101 % Graphics7,922 5,412 2,510 46 %14,987 9,885 5,102 52 % Total$96,221 $46,743 $49,478 106 %$177,837 $90,805 $87,032 96 % 28 Operating Income by Reportable Segments Three Months EndedSix Months Ended Jul 26, 2026Jul 27, 2025$ Change% ChangeJul 26, 2026Jul 27, 2025$ Change% Change ($ in millions) Compute & Networking$62,696 $28,363 $34,333 121 %$116,031 $50,417 $65,614 130 % Graphics3,899 2,242 1,657 74 %6,840 3,882 2,958 76 % Total$66,595 $30,605 $35,990 118 %$122,871 $54,299 $68,572 126 % Compute & Networking revenue – The year-over-year increase in the second quarter and first half of fiscal year 2027 was driven by the ramp of our Blackwell Ultra infrastructure. Graphics revenue – The year-over-year increase in the second quarter and first half of fiscal year 2027 was driven by sales of our Blackwell architecture. Reportable segment operating income – The year-over-year increase in Compute & Networking segment operating income in the second quarter of fiscal year 2027 was driven by the growth in revenue. The year-over-year increase in Compute & Networking segment operating income in the first half of fiscal year 2027 was driven by the growth in revenue and the non-recurrence of a $4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026. The year-over-year increase in Graphics segment operating income in the second quarter and first half of fiscal year 2027 was driven by the growth in revenue. Concentration of Revenue We refer to c",
+  "insider|30": {
+   "filings_checked": 1,
+   "sales": 0,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "0 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 30 days"
+  },
+  "insider|90": {
+   "filings_checked": 16,
+   "sales": 6,
+   "planned_sales": 3,
+   "open_market_buys": 0,
+   "summary": "6 Form 4 filings with sales (3 under 10b5-1 plans) | 0 open-market buys in 90 days"
+  },
+  "insider|180": {
+   "filings_checked": 20,
+   "sales": 6,
+   "planned_sales": 3,
+   "open_market_buys": 0,
+   "summary": "6 Form 4 filings with sales (3 under 10b5-1 plans) | 0 open-market buys in 180 days"
+  },
+  "institutional": {
+   "qoq_change_pct": 1.2,
+   "top_holder": "Blackrock Inc.",
+   "summary": "Top 10 holders net +1.2% QoQ | largest: Blackrock Inc. 8.1%"
+  },
+  "dilution": {
+   "diluted_shares_b": 24.29,
+   "sbc_pct_rev": 3.0,
+   "buyback_usd_b": 40.1,
+   "net_share_change_pct": -1.0
+  },
+  "valuation": {
+   "fwd_pe": 11.4,
+   "ev_ebitda": 21.6,
+   "fcf_yield_pct": 1.0
+  },
+  "price_history": {
+   "bars": 251,
+   "last_close": 181.6,
+   "last_date": "2026-11-05"
+  },
+  "technicals": {
+   "spot": 181.6,
+   "dma50": 220.59,
+   "dma200": 204.38,
+   "rsi14": 25.4,
+   "vwap": 210.87
+  },
+  "market|{}": {
+   "realized_vol": 0.382,
+   "beta": 1.88,
+   "max_corr_holding": null,
+   "max_corr": 0.0,
+   "corr_to_portfolio": 0.0
+  },
+  "quote": {
+   "bid": 181.59,
+   "ask": 181.61
+  },
+  "close": 181.6,
+  "source|filings|": [
+   "SEC EDGAR filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810&owner=include&count=40"
+  ],
+  "source|financials|": [
+   "10-Q filed 2026-08-26",
+   "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+  ],
+  "source|insider|": [
+   "SEC Form 4 filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810&type=4&owner=include&count=40"
+  ],
+  "source|institutional|": [
+   "Yahoo Finance holders",
+   "https://finance.yahoo.com/quote/NVDA/holders"
+  ],
+  "source|dilution|": [
+   "10-Q filed 2026-08-26",
+   "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+  ],
+  "source|valuation|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "source|price|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "source|technicals|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "source|section|10-K": [
+   "10-K filed 2026-02-25",
+   "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+  ],
+  "source|section|10-Q": [
+   "10-Q filed 2026-08-26",
+   "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm"
+  ]
+ }
+}

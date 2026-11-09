@@ -1,0 +1,158 @@
+{
+ "ticker": "PFE",
+ "as_of": "2026-11-05",
+ "recorded_at": "2026-11-06T02:47:55+00:00",
+ "recorded_from": "live",
+ "calls": {
+  "company": "Pfizer Inc.",
+  "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-03"
+   },
+   {
+    "form": "10-Q",
+    "date": "2026-11-03"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-02-26"
+   }
+  ],
+  "financials|1": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 16.58,
+   "revenue_growth_pct": -0.4,
+   "gross_margin_pct": 75.7,
+   "sbc_pct_rev": 1.3,
+   "net_share_change_pct": 0.6,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 11.7,
+   "net_income_usd_b": 7.77,
+   "receivables_growth_pct": -0.5
+  },
+  "financials|4": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 16.58,
+   "revenue_growth_pct": -0.4,
+   "gross_margin_pct": 75.7,
+   "sbc_pct_rev": 1.3,
+   "net_share_change_pct": 0.6,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 11.7,
+   "net_income_usd_b": 7.77,
+   "receivables_growth_pct": -0.5,
+   "gross_margin_4q": [
+    74.9,
+    75.4,
+    72.8,
+    75.7
+   ]
+  },
+  "section|10-K|risk_factors": "[10-K filed 2026-02-26] This section describes the material risks to our business, which should be considered carefully in addition to the other information in this report and our other filings with the SEC. Investors should be aware that it is not possible to predict or identify all such factors and that the following is not meant to be a complete discussion of all potential risks or uncertainties. Additionally, our business is subject to general risks applicable to any company, such as economic conditions, geopolitical events, extreme weather and natural disasters. If known or unknown risks or uncertainties materialize, our business operations, financial condition, operating results (including components of our financial results), cash flows, prospects, reputation or credit ratings could be materially adversely affected now and in the future. The following discussion of risk factors contains forward-looking statements, as discussed in the Forward-Looking Information and Factors that May Affect Future Results section. RISKS RELATED TO OUR BUSINESS, INDUSTRY AND OPERATIONS: MANAGED CARE TRENDS Private payors, such as health plans, and other managed care entities, such as PBMs, continue to take action to manage the utilization and costs of drugs in the U.S., the single largest market for biopharmaceutical products. The negotiating power of MCOs, PBMs and other private third-party payors has increased due to consolidation, and they, along with state and federal governments, increasingly employ tools to control costs and encourage utilization of certain drugs, including through the use of deductibles, utilization management tools, cost sharing or formulary placement. They may demand rebates and/or fees from biopharmaceutical manufacturers for preferred formulary placement, or for unrestricted access on a drug formulary. The growing availability and use of higher-cost innovative specialty pharmaceutical medicines that treat rare life-threatening conditions has also increased payor interest in the deployment of cost-containment strategies. We may fail to obtain or maintain timely or adequate pricing or formulary placement of our products, or fail to obtain such formulary placement at pricing that reflects the value of the treatment. Some payers are directing beneficiaries to third-party patient assistance programs, rather than covering certain treatments. In other instances, insurers disallow manufacturers’ co-pay assistance from counting toward reaching the deductible or out-of-pocke",
+  "section|10-K|mda": "[10-K filed 2026-02-26] AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the consolidated financial statements and related notes in Item 8. Financial Statements and Supplementary Data in this Form 10-K. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 that are not included in this Form 10-K can be found within MD&A in our 2024 Form 10-K. References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting operational variances excluding these foreign exchange changes provides useful information to evaluate our results. OVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK Financial Highlights––The following is a summary of certain financial performance metrics (in billions, except per share data): 2025 Total Revenues––$62.6 billion2025 Net Cash Flow from Operations––$11.7 billion A decrease of 2% compared to 2024A decrease of 8% compared to 2024 2025 Reported Diluted EPS––$1.362025 Adjusted Diluted EPS (Non-GAAP)––$3.22** A decrease of 3% compared to 2024An increase of 4% compared to 2024 ** For additional information regarding Adjusted diluted EPS (which is a non-GAAP financial measure), including reconciliations of certain GAAP Reported to non- GAAP Adjusted information, see the Non-GAAP Financial Measure: Adjusted Income section within MD&A. Our Business and Strategy––Pfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies to people that extend and significantly improve their lives. See the Item 1. Business––About Pfizer section. As a science-driven global biopharmaceutical company, we remain focused on advancing our product pipeline, supporting our marketed brands and deploying capital responsibly, with a focus on initiatives that can help contribute to our long-term revenue and future growth. Most of our revenues come from the manufacture and sale of biopharmaceutical products. We believe that our m",
+  "section|10-Q|risk_factors": "[10-Q filed 2026-11-03] We refer to the Overview of Our Performance, Operating and Global Economic Environment—Our Operating Environment and —The Global Economic Environment sections and the Forward-Looking Information and Factors That May Affect Future Results section within MD&A of this Form 10-Q and of our 2025 Form 10-K and to the Item 1A. Risk Factors section of our 2025 Form 10-K. ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS The following summarizes purchases of our common stock during the third quarter of 2026: Period Total Number of Shares Purchased(a) Average Price Paid per Share(a)Total Number of Shares Purchased as Part of Publicly Announced Plan Approximate Value of Shares That May Yet Be Purchased Under the Plan(b) June 29 through July 26, 202618,197 $24.56 — $3,292,882,444 July 27 through August 23, 202619,352 $25.69 — $3,292,882,444 August 24 through September 27, 202617,673 $28.40 — $3,292,882,444 Total55,222 $26.18 — (a)Represents (i) 54,453 shares of common stock surrendered to the Company to satisfy tax withholding obligations in connection with the vesting of awards under our long-term incentive programs and (ii) the open market purchase by the trustee of 769 shares of common stock in connection with the reinvestment of dividends paid on common stock held in trust for employees who deferred receipt of performance share awards. (b)See Note 12 in our 2025 Form 10-K. 52 ITEM 5. OTHER INFORMATION During the three months ended September 27, 2026, none of our directors or officers adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K. ITEM 6. EXHIBITS Exhibit 31.1Certification by the Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. Exhibit 31.2Certification by the Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. Exhibit 32.1Certification by the Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. Exhibit 32.2Certification by the Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. Exhibit 101: EX-101.INSXBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. EX-101.SCH EX-101.CAL EX-101.LAB EX-101.PRE EX-101.DEFInline XBRL Ta",
+  "section|10-Q|mda": "[10-Q filed 2026-11-03] AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS GENERAL The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the condensed consolidated financial statements and related notes in Item 1. Financial Statements in this Form 10-Q. References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting operational variances excluding these foreign exchange changes provides useful information to evaluate our results. OVERVIEW OF OUR PERFORMANCE, OPERATING AND GLOBAL ECONOMIC ENVIRONMENT Our Business––Pfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies to people that extend and significantly improve their lives through the discovery, development, manufacture, marketing, sale and distribution of biopharmaceutical products worldwide. Segments––Beginning in the first quarter of 2026, we manage our commercial operations through a global structure consisting of two operating segments: Biopharma and PC1. Biopharma is the only reportable segment. See Note 13A. For additional information about our business, strategy and operating environment, see the Item 1. Business section and the Overview of Our Performance, Operating Environment, Strategy and Outlook section within MD&A of our 2025 Form 10-K. Restructuring Programs Realigning Our Cost Base Program––In the third quarter of 2026, we announced $1.0 billion of additional anticipated net cost savings associated with this program driven by further productivity enhancements from technology and simplification efforts across our commercial, R&D and enabling functions. These additional net savings are expected to further reduce costs in SI&A and be realized from 2027 through 2029. We expect one-time costs to achieve the additional savings to be incurred through 2029 and to total approximately $2.0 billion. Manufacturing Optimization Program––In the third quarter of 2026, we announced the next phase of our multi-year program designed to reduce our cost of g",
+  "insider|30": {
+   "filings_checked": 3,
+   "sales": 0,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "0 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 30 days"
+  },
+  "insider|90": {
+   "filings_checked": 14,
+   "sales": 0,
+   "planned_sales": 0,
+   "open_market_buys": 1,
+   "summary": "0 Form 4 filings with sales (0 under 10b5-1 plans) | 1 open-market buys in 90 days"
+  },
+  "insider|180": {
+   "filings_checked": 20,
+   "sales": 1,
+   "planned_sales": 0,
+   "open_market_buys": 3,
+   "summary": "1 Form 4 filings with sales (0 under 10b5-1 plans) | 3 open-market buys in 180 days"
+  },
+  "institutional": {
+   "qoq_change_pct": 2.5,
+   "top_holder": "Blackrock Inc.",
+   "summary": "Top 10 holders net +2.5% QoQ | largest: Blackrock Inc. 9.3%"
+  },
+  "dilution": {
+   "diluted_shares_b": 5.75,
+   "sbc_pct_rev": 1.3,
+   "buyback_usd_b": 0.0,
+   "net_share_change_pct": 0.6
+  },
+  "valuation": {
+   "fwd_pe": 10.3,
+   "ev_ebitda": 8.9,
+   "fcf_yield_pct": null
+  },
+  "price_history": {
+   "bars": 251,
+   "last_close": 29.88,
+   "last_date": "2026-11-05"
+  },
+  "technicals": {
+   "spot": 29.88,
+   "dma50": 28.72,
+   "dma200": 26.44,
+   "rsi14": 54.1,
+   "vwap": 29.86
+  },
+  "market|{}": {
+   "realized_vol": 0.217,
+   "beta": 0.27,
+   "max_corr_holding": null,
+   "max_corr": 0.0,
+   "corr_to_portfolio": 0.0
+  },
+  "quote": {
+   "bid": 29.89,
+   "ask": 29.95
+  },
+  "close": 29.88,
+  "source|filings|": [
+   "SEC EDGAR filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=78003&owner=include&count=40"
+  ],
+  "source|financials|": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/"
+  ],
+  "source|insider|": [
+   "SEC Form 4 filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=78003&type=4&owner=include&count=40"
+  ],
+  "source|institutional|": [
+   "Yahoo Finance holders",
+   "https://finance.yahoo.com/quote/PFE/holders"
+  ],
+  "source|dilution|": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/"
+  ],
+  "source|valuation|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/PFE"
+  ],
+  "source|price|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/PFE"
+  ],
+  "source|technicals|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/PFE"
+  ],
+  "source|section|10-K": [
+   "10-K filed 2026-02-26",
+   "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm"
+  ],
+  "source|section|10-Q": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm"
+  ]
+ }
+}

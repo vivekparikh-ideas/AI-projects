@@ -1,0 +1,153 @@
+{
+ "ticker": "JPM",
+ "as_of": "2026-11-05",
+ "recorded_at": "2026-11-06T03:48:28+00:00",
+ "recorded_from": "live",
+ "calls": {
+  "company": "JPMorgan Chase & Co.",
+  "filings": [
+   {
+    "form": "10-Q",
+    "date": "2026-11-03"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-20"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-02-13"
+   }
+  ],
+  "financials|1": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 50.17,
+   "revenue_growth_pct": 8.1,
+   "gross_margin_pct": null,
+   "sbc_pct_rev": 2.0,
+   "net_share_change_pct": -3.1,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": -147.78,
+   "net_income_usd_b": 57.0,
+   "receivables_growth_pct": null
+  },
+  "financials|4": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 50.17,
+   "revenue_growth_pct": 8.1,
+   "gross_margin_pct": null,
+   "sbc_pct_rev": 2.0,
+   "net_share_change_pct": -3.1,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": -147.78,
+   "net_income_usd_b": 57.0,
+   "receivables_growth_pct": null,
+   "gross_margin_4q": []
+  },
+  "section|10-K|risk_factors": "[10-K filed 2026-02-13] . The following discussion sets forth the material risk factors that could affect JPMorganChase’s financial condition and operations. Readers should not consider any descriptions of these factors to be a complete set of all potential risks that could affect the Firm. Any of the risk factors discussed below could by itself, or combined with other factors, materially and adversely affect JPMorganChase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation, including by materially increasing expenses or decreasing revenues, which could result in material losses or a decrease in earnings. Summary The principal risk factors include: •Legal and Regulatory risks, including the impact of extensive supervision and regulation, as well as changes to or in the application, interpretation or enforcement of applicable law or executive branch actions, on JPMorganChase’s business and operations; the ways in which differences in regulatory implementation in different jurisdictions or with respect to certain competitors could negatively impact JPMorganChase’s business; the ways in which governmental policies that discourage or penalize business relationships with certain industries, or require specific business practices, could negatively affect JPMorganChase's businesses; the penalties and other repercussions that JPMorganChase could face when resolving litigation or investigations by governmental authorities; the ways in which less predictable legal and regulatory frameworks in certain jurisdictions could negatively impact JPMorganChase’s operations and financial results; and the losses that security holders and other unsecured creditors will absorb if JPMorganChase were to enter into a resolution. •Political risks, including the potential negative effects on JPMorganChase’s businesses due to economic uncertainty resulting from political developments. •Market risks, including the effects that unfavorable economic and market events and conditions, political developments, changes in interest rates and credit spreads, and market fluctuations could have on JPMorganChase’s businesses, investments and market-making positions, as well as on its earnings and liquidity and capital levels. •Credit risks, including the effects from adverse changes in the financial condition of clients, customers, counterparties, central counterparties and other market participants; the potential for losses due to declines in the value ",
+  "section|10-K|mda": "[10-K filed 2026-02-13] and Analysis of Financial Condition and Results of Operations. Management’s discussion and analysis of financial condition and results of operations, entitled “Management’s discussion and analysis,” appears on pages 46–160. Such information should be read in conjunction with the Consolidated Financial Statements and Notes thereto, which appear on pages 165–314. Item 7A. Quantitative and Qualitative Disclosures About Market Risk. Refer to the Market Risk Management section of Management’s discussion and analysis on pages 133-142 for a discussion of quantitative and qualitative disclosures about market risk. 33 Parts II and III Item 8. Financial Statements and Supplementary Data. The Consolidated Financial Statements, together with the Notes thereto and the report thereon dated February 13, 2026, of PricewaterhouseCoopers LLP, the Firm’s independent registered public accounting firm (PCAOB ID 238), appear on pages 162–314. The “Glossary of Terms and Acronyms’’ is included on pages 320–327. Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. None. Item 9A. Controls and Procedures. The internal control framework promulgated by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”), “Internal Control — Integrated Framework” (“COSO 2013”), provides guidance for designing, implementing and conducting internal control and assessing its effectiveness. The Firm used the COSO 2013 framework to assess the effectiveness of the Firm’s internal control over financial reporting as of December 31, 2025. Refer to “Management’s report on internal control over financial reporting” on page 161. As of the end of the period covered by this report, an evaluation was carried out under the supervision and with the participation of the Firm’s management, including its Chairman and Chief Executive Officer and its Chief Financial Officer, of the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934). Based on that evaluation, the Chairman and Chief Executive Officer and the Chief Financial Officer concluded that these disclosure controls and procedures were effective. Refer to Exhibits 31.1 and 31.2 for the Certifications furnished by the Chairman and Chief Executive Officer and Chief Financial Officer, respectively. The Firm is committed to maintaining high standards of internal control over financial reporting. Nevertheless, because of its inhere",
+  "section|10-Q|risk_factors": "[10-Q filed 2026-11-03] . Refer to Part I, Item 1A: Risk Factors on pages 9–31 of JPMorganChase’s 2025 Form 10-K and Forward-Looking Statements on page 91 of this Form 10-Q for a discussion of certain risk factors affecting the Firm. Supervision and regulation Refer to the Supervision and regulation section on pages 2-6 of JPMorganChase’s 2025 Form 10-K for information on Supervision and Regulation. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. Repurchases under the common share repurchase program Refer to Capital Risk Management on pages 45-52 of this Form 10-Q and pages 89–99 of JPMorganChase’s 2025 Form 10-K for information regarding repurchases under the Firm’s common share repurchase program. On June 24, 2026, the Firm announced that its Board of Directors had authorized a new $50 billion common share repurchase program, effective July 1, 2026. Through June 30, 2026, the Firm was authorized to purchase up to $50 billion of common shares under its previously-approved common share repurchase program that was announced on July 1, 2025. 202 Shares repurchased pursuant to the common share repurchase program during the nine months ended September 30, 2026 were as follows: Nine months ended September 30, 2026Total number of shares of common stock repurchased Average price paid per share of common stock(a) Aggregate purchase price of common stock repurchases (in millions)(a) Dollar value of remaining authorized repurchase (in millions)(a) First quarter27,508,883 $302.75 $8,328 $25,095 Second quarter21,746,118 308.21 6,703 18,392 (b) July3,089,479 342.33 1,057 48,943 August— — — 48,943 September— — — 48,943 (c) Third quarter3,089,479 342.33 1,057 48,943 (c) Year-to-date52,344,480 $307.36 $16,088 $48,943 (c) (a)Excludes excise tax and commissions. (b)The $18.4 billion remaining under the prior Board authorization was canceled when the $50 billion repurchase program was authorized by the Board of Directors effective July 1, 2026. (c)Represents the amount remaining under the $50 billion repurchase program. Item 3. Defaults Upon Senior Securities. None. Item 4. Mine Safety Disclosures. Not applicable. Item 5. Other Information. Trading arrangements The following table provides information concerning Rule 10b5-1 trading arrangements (as defined in Item 408 of Regulation S-K under the Securities Exchange Act of 1934) adopted in the third quarter of 2026, by any director or officer who is subject to the filing requirements of Section 16 of the Securities Exchange Act ",
+  "section|10-Q|mda": "[10-Q filed 2026-11-03] and Analysis of Financial Condition and Results of Operations. Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 9 Consolidated Balance Sheets and Cash Flows Analysis 15 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 19 Business Segment & Corporate Results 21 Firmwide Risk Management 44 Capital Risk Management 45 Liquidity Risk Management 53 Consumer Credit Portfolio 62 Wholesale Credit Portfolio 66 Allowance for Credit Losses 75 Investment Portfolio Risk Management 78 Market Risk Management 79 Country Risk Management 85 Critical Accounting Estimates Used by the Firm 86 Accounting and Reporting Developments 89 Forward-Looking Statements 91 Item 3. Quantitative and Qualitative Disclosures About Market Risk. 202 Item 4. Controls and Procedures 202 Part II – Other information Item 1. Legal Proceedings. 202 Item 1A. Risk Factors. 202 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 202 Item 3. Defaults Upon Senior Securities. 203 Item 4. Mine Safety Disclosures. 203 Item 5. Other Information. 203 Item 6. Exhibits. 204 2 JPMorgan Chase & Co. Consolidated financial highlights (unaudited) As of or for the period ended, (in millions, except per share, ratio, employee data and where otherwise noted)Nine months ended Sep 30, 3Q262Q261Q264Q253Q2520262025 Selected income statement data Total net revenue$50,172 $57,347 (e)$49,836 $45,798 $46,427 $157,355 (e)$136,649 Total noninterest expense27,295 27,316 26,850 23,983 24,281 81,461 71,657 Pre-provision profit(a)22,877 30,031 22,986 21,815 22,146 75,894 64,992 Provision for credit losses2,743 2,515 2,507 4,655 (f)3,403 7,765 9,557 Income before income tax expense20,134 27,516 20,479 17,160 18,743 68,129 55,435 Income tax expense4,829 6,361 3,985 4,135 4,350 15,175 11,412 Net income$15,305 $21,155 $16,494 $13,025 $14,393 $52,954 $44,023 Earnings per share data Net income: Basic$5.58 $7.71 $5.95 $4.64 $5.08 $19.24 $15.41 Diluted5.57 7.70 5.94 4.63 5.07 19.20 15.38 Average shares: Basic2,678.6 2,689.9 2,716.2 2,735.3 2,762.4 2,694.9 2,790.2 Diluted2,683.0 2,694.2 2,720.2 2,740.5 2,767.6 2,699.1 2,795.2 Market and per common share data Market capitalization$878,555 $870,104 $788,205 $868,793 $858,683 $878,555 $858,683 Common shares at period-end2,655.6 2,658.2 2,679.5 2,696.2 2,722.2 2,655.6 2,722.2 Book value per share$132.30 $133.01 $128.38 $126.99 $124.96 $132.30 $124.96 Tangible book value per share (“TBVPS”)(a)",
+  "insider|30": {
+   "filings_checked": 1,
+   "sales": 0,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "0 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 30 days"
+  },
+  "insider|90": {
+   "filings_checked": 7,
+   "sales": 2,
+   "planned_sales": 2,
+   "open_market_buys": 0,
+   "summary": "2 Form 4 filings with sales (2 under 10b5-1 plans) | 0 open-market buys in 90 days"
+  },
+  "insider|180": {
+   "filings_checked": 20,
+   "sales": 3,
+   "planned_sales": 3,
+   "open_market_buys": 0,
+   "summary": "3 Form 4 filings with sales (3 under 10b5-1 plans) | 0 open-market buys in 180 days"
+  },
+  "institutional": {
+   "qoq_change_pct": -0.2,
+   "top_holder": "Blackrock Inc.",
+   "summary": "Top 10 holders net -0.2% QoQ | largest: Blackrock Inc. 7.8%"
+  },
+  "dilution": {
+   "diluted_shares_b": 2.68,
+   "sbc_pct_rev": 2.0,
+   "buyback_usd_b": 31.6,
+   "net_share_change_pct": -3.1
+  },
+  "valuation": {
+   "fwd_pe": 13.2,
+   "ev_ebitda": null,
+   "fcf_yield_pct": null
+  },
+  "price_history": {
+   "bars": 251,
+   "last_close": 337.34,
+   "last_date": "2026-11-05"
+  },
+  "technicals": {
+   "spot": 337.34,
+   "dma50": 341.29,
+   "dma200": 321.1,
+   "rsi14": 49.0,
+   "vwap": 338.0
+  },
+  "market|{}": {
+   "realized_vol": 0.229,
+   "beta": 0.8,
+   "max_corr_holding": null,
+   "max_corr": 0.0,
+   "corr_to_portfolio": 0.0
+  },
+  "quote": {
+   "bid": 337.0,
+   "ask": 338.0
+  },
+  "close": 337.34,
+  "source|filings|": [
+   "SEC EDGAR filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=19617&owner=include&count=40"
+  ],
+  "source|financials|": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/"
+  ],
+  "source|insider|": [
+   "SEC Form 4 filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=19617&type=4&owner=include&count=40"
+  ],
+  "source|institutional|": [
+   "Yahoo Finance holders",
+   "https://finance.yahoo.com/quote/JPM/holders"
+  ],
+  "source|dilution|": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/"
+  ],
+  "source|valuation|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/JPM"
+  ],
+  "source|price|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/JPM"
+  ],
+  "source|technicals|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/JPM"
+  ],
+  "source|section|10-K": [
+   "10-K filed 2026-02-13",
+   "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+  ],
+  "source|section|10-Q": [
+   "10-Q filed 2026-11-03",
+   "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm"
+  ]
+ }
+}

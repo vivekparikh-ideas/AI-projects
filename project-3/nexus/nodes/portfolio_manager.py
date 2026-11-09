@@ -51,6 +51,13 @@ def _revision_cap(feedback, snap, mandate, ticker: str, vol: float, corr: dict) 
     return cap, "No room to add under the safety rules: " + "; ".join(reasons) + "."
 
 
+def apply_buy_floor(decision: dict[str, Any], conviction: float, floor: float) -> tuple[dict[str, Any], bool]:
+    """Code, not the model, has the final say on the BUY floor (D-034). Returns (decision, converted)."""
+    if decision["action"] == "BUY" and conviction < floor:
+        return {"action": "HOLD", "rationale": f"Conviction {conviction:.1f} is below the {floor:g} buy floor."}, True
+    return decision, False
+
+
 def _hold(ticker: str, why: str) -> TradeIntent:
     return TradeIntent(action="HOLD", ticker=ticker, target_weight_pct=0, dollar_amount=0, shares=0, limit_price=0, stop_loss_price=0, rationale=why)
 
@@ -95,11 +102,11 @@ def portfolio_manager(state: FundGraphState) -> dict[str, Any]:
                 "fund": {"nav": snap.nav, "cash": snap.settled_cash, "holdings": holdings, "mandate": mandate} if snap else {"note": "no fund set yet", "min_buy_conviction": mandate.get("min_buy_conviction")},
                 "question_allowed": state.research_rounds < MAX_RESEARCH_ROUNDS,
             })
-        action = decision["action"]
         floor = mandate.get("min_buy_conviction", 0.0)
-        if action == "BUY" and d.conviction_score < floor:  # code, not the model, has the final say (D-034)
+        decision, floored = apply_buy_floor(decision, d.conviction_score, floor)
+        action = decision["action"]
+        if floored:
             ev.text = f"→ wanted BUY, but conviction {d.conviction_score:.1f} is below the {floor:g} buy floor → HOLD"
-            decision, action = {"action": "HOLD", "rationale": f"Conviction {d.conviction_score:.1f} is below the {floor:g} buy floor."}, "HOLD"
         elif action == "NEED_MORE_RESEARCH" and state.research_rounds >= MAX_RESEARCH_ROUNDS:
             ev.text = f"→ wanted more research, but the {MAX_RESEARCH_ROUNDS}-round cap is reached → HOLD"
             decision, action = {"action": "HOLD", "rationale": "Still uncertain after the extra research round."}, "HOLD"

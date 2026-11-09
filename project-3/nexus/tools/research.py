@@ -179,6 +179,11 @@ def check_grounding(claims: list[str], sources: list[ToolResult]) -> None:
         raise GroundingError(f"numbers not found in any tool output: {', '.join(f'{m:g}' for m in missing)}")
 
 
+def conviction_from(base_score: float, adjustment: float) -> float:
+    """Base score + Ava's adjustment, kept inside 0–10 (D-046): a low base can't make conviction negative."""
+    return round(min(10.0, max(0.0, base_score + adjustment)), 1)
+
+
 def submit_dossier(
     ticker: str,
     results: dict[str, ToolResult],
@@ -232,6 +237,6 @@ def submit_dossier(
         scorecard=card,
         llm_adjustment=adj,
         adjustment_reason=synthesis["adjustment_reason"],
-        conviction_score=round(card.base_score + adj, 1),
+        conviction_score=conviction_from(card.base_score, adj),
         agent_trace=trace,
     )

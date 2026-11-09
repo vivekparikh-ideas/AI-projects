@@ -1,0 +1,158 @@
+{
+ "ticker": "TSLA",
+ "as_of": "2026-11-05",
+ "recorded_at": "2026-11-06T02:31:34+00:00",
+ "recorded_from": "live",
+ "calls": {
+  "company": "Tesla, Inc.",
+  "filings": [
+   {
+    "form": "10-Q",
+    "date": "2026-10-22"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-21"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-01-29"
+   }
+  ],
+  "financials|1": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 28.05,
+   "revenue_growth_pct": -0.2,
+   "gross_margin_pct": 19.6,
+   "sbc_pct_rev": 3.0,
+   "net_share_change_pct": 0.4,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 14.75,
+   "net_income_usd_b": 3.85,
+   "receivables_growth_pct": -1.4
+  },
+  "financials|4": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 28.05,
+   "revenue_growth_pct": -0.2,
+   "gross_margin_pct": 19.6,
+   "sbc_pct_rev": 3.0,
+   "net_share_change_pct": 0.4,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 14.75,
+   "net_income_usd_b": 3.85,
+   "receivables_growth_pct": -1.4,
+   "gross_margin_4q": [
+    18.0,
+    21.1,
+    16.8,
+    19.6
+   ]
+  },
+  "section|10-K|risk_factors": "[10-K filed 2026-01-29] You should carefully consider the risks described below together with the other information set forth in this report, which could materially affect our business, financial condition and future results. The risks described below are not the only risks facing our company. Risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and operating results. Risks Related to Our Ability to Grow Our Business We may experience issues or delays in developing, launching and ramping the production of our products, services and features, or we may be unable to control our manufacturing costs. We are developing new technologies and services, unique manufacturing processes and design features in our products. There is no guarantee we will be able to successfully develop or timely introduce and scale these new products, services and features, or that there will be widespread consumer adoption. We also have previously experienced and may in the future experience launch and production ramp delays. In particular, our future business depends on development of our driver assistance systems and autonomous driving solutions and increasing the production of mass-market vehicles, including Cybercab, our purpose-built Robotaxi product. In order to be successful, we will need to further advance our capabilities in AI, and implement, maintain and ramp efficient and cost-effective manufacturing capabilities, processes and supply chains and achieve the design tolerances, high quality and output rates we have planned at our manufacturing facilities. We will also need to hire, train and compensate skilled employees to operate these facilities. Bottlenecks and other unexpected challenges such as those we experienced in the past may arise during our production ramps, and we must address them promptly while continuing to improve manufacturing processes and reducing costs. If we are not successful in achieving these goals, we could face delays in establishing and/or sustaining our product ramps or be unable to meet our related cost and profitability targets. Similarly, we are also developing Bots for future commercialization, and we may experience delays in launching and ramping the production of this product. We have experienced, and may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or varia",
+  "section|10-K|mda": "[10-K filed 2026-01-29] Results of Operations Revenues Year Ended December 31,2025 vs. 2024 Change2024 vs. 2023 Change (Dollars in millions)202520242023$%$% Automotive sales$65,821 $72,480 $78,509 $(6,659)(9)%$(6,029)(8)% Automotive regulatory credits1,993 2,763 1,790 (770)(28)%973 54 % Automotive leasing1,712 1,827 2,120 (115)(6)%(293)(14)% Total automotive revenues69,526 77,070 82,419 (7,544)(10)%(5,349)(6)% Services and other12,530 10,534 8,319 1,996 19 %2,215 27 % Total automotive & services and other segment revenue82,056 87,604 90,738 (5,548)(6)%(3,134)(3)% Energy generation and storage segment revenue12,771 10,086 6,035 2,685 27 %4,051 67 % Total revenues$94,827 $97,690 $96,773 $(2,863)(3)%$917 1 % Automotive & Services and Other Segment Automotive sales revenue includes revenues related to cash and financing deliveries of new vehicles, including internet connectivity, access to our FSD (Supervised) features and their ongoing maintenance, free Supercharging programs and over-the-air software updates. These deliveries are vehicles that are not subject to lease accounting. Automotive regulatory credits includes sales of regulatory credits to other automotive manufacturers. Our revenue from automotive regulatory credits is directly related to our new vehicle production, sales and pricing negotiated with our customers. We monetize them proactively as new vehicles are sold based on standing arrangements with buyers of such credits, typically as close as possible to the production and delivery of the vehicle or changes in regulation impacting the credits. Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements and lease buyout revenue. Additionally, automotive leasing revenue includes direct sales-type leasing programs where we recognize all revenue associated with the sales-type lease upon delivery to the customer. Services and other revenue consists of sales of used vehicles, non-warranty maintenance services and collision, paid Supercharging sessions, automotive insurance business revenue, part sales and retail merchandise sales. 2025 compared to 2024 Automotive sales revenue decreased $6.66 billion, or 9%, in the year ended December 31, 2025 as compared to the year ended December 31, 2024, due a decrease of approximately 8% in cash deliveries and a lower average selling price per unit driven by sales mix and higher customer incentives such as attractive financing options. Automotive regulatory credits revenue decre",
+  "section|10-Q|risk_factors": "[10-Q filed 2026-10-22] Our operations and financial results are subject to various risks and uncertainties, including the factors discussed in Part I, Item 1A, Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2025, which could adversely affect our business, financial conditions and future results. ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS None. ITEM 3. DEFAULTS UPON SENIOR SECURITIES None. ITEM 4. MINE SAFETY DISCLOSURES Not applicable. ITEM 5. OTHER INFORMATION Rule 10b5-1 Trading Arrangements None of the Company’s directors or officers adopted, modified or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement during the Company’s fiscal quarter ended September 30, 2026, as such terms are defined under Item 408(a) of Regulation S-K. The Tesla board of directors has formed a special committee (the “Special Committee”) comprising disinterested directors to explore deepening Tesla’s relationship with SpaceX, which could be through certain arrangements including without limitation a business combination (a “Transaction”). While there could be merits to a Transaction, there is no assurance that any such Transaction will be consummated, as a Transaction would be subject to, among other things, the affirmative recommendation of the Special Committee and, if agreed upon, any necessary shareholder approval. 41 Table of Contents ITEM 6. EXHIBITS See Index to Exhibits at the end of this Quarterly Report on Form 10-Q for the information required by this Item. INDEX TO EXHIBITS Exhibit NumberIncorporated by ReferenceFiled Herewith Exhibit DescriptionFormFile No.ExhibitFiling Date 10.1 Five-Year Revolving Credit Agreement, dated as of September 29, 2026, among Tesla, Inc., the Lenders and Issuing Banks from time to time party thereto, Wells Fargo Bank, National Association, as Administrative Agent and Citibank, N.A., as Syndication Agent ————X 10.2 364-Day Revolving Credit Agreement, dated as of September 29, 2026, among Tesla, Inc., the Lenders and Issuing Banks from time to time party thereto, Wells Fargo Bank, National Association, as Administrative Agent and Citibank, N.A., as Syndication Agent ————X 10.3 Delayed Draw Term Loan Credit Agreement, dated as of September 29, 2026 , among Tesla, Inc., the Lenders and Issuing Banks from time to time party thereto, Citibank, N.A., as Administrative Agent and Wells Fargo Bank, National Association, as Syndication Agent ————X 31.1 Rule 13a-14(a) / 15(d)-14(a) ",
+  "section|10-Q|mda": "[10-Q filed 2026-10-22] Results of Operations Revenues Three Months Ended September 30,ChangeNine Months Ended September 30,Change (Dollars in millions)20262025$%20262025$% Automotive sales$20,094 $20,359 $(265)(1)%$55,573 $49,071 $6,502 13 % Automotive regulatory credits113 417 (304)(73)%639 1,451 (812)(56)% Automotive leasing353 429 (76)(18)%1,098 1,311 (213)(16)% Total automotive revenues20,560 21,205 (645)(3)%57,310 51,833 5,477 11 % Services and other4,605 3,475 1,130 33 %12,931 9,159 3,772 41 % Total automotive & services and other segment revenue25,165 24,680 485 2 %70,241 60,992 9,249 15 % Energy generation and storage segment revenue2,881 3,415 (534)(16)%8,428 8,934 (506)(6)% Total revenues$28,046 $28,095 $(49)— %$78,669 $69,926 $8,743 13 % 33 Table of Contents Automotive & Services and Other Segment Automotive sales revenue decreased $265 million, or 1%, in the three months ended September 30, 2026 as compared to the three months ended September 30, 2025, due to a decrease of approximately 2% in cash deliveries, primarily from fewer Model S and Model X deliveries after the product sunset in mid-2026, offset by a positive impact from the weakening of the United States dollar compared to foreign currencies year over year and an increase from higher revenue from FSD (Supervised) subscriptions in the current period. Automotive sales revenue increased $6.50 billion, or 13%, in the nine months ended September 30, 2026 as compared to the nine months ended September 30, 2025, due to an increase of approximately 10% in cash deliveries, in part from bringing down all of our vehicle factories simultaneously for the changeover to the New Model Y in the prior period, partially offset by fewer Model S and Model X deliveries after the product sunset in mid-2026. Additionally, there was a positive impact from the weakening of the United States dollar when compared to foreign currencies year over year and an increase from higher revenue from FSD (Supervised) subscriptions in the current period. Automotive regulatory credits revenue decreased $304 million, or 73%, in the three months ended September 30, 2026 as compared to the three months ended September 30, 2025. Automotive regulatory credits revenue decreased $812 million, or 56%, in the nine months ended September 30, 2026 as compared to the nine months ended September 30, 2025. Fluctuations in automotive regulatory credits are impacted by our supply of credits, subject to changes in regulation, production and sales. Recent governmen",
+  "insider|30": {
+   "filings_checked": 0,
+   "sales": 0,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "0 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 30 days"
+  },
+  "insider|90": {
+   "filings_checked": 1,
+   "sales": 1,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "1 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 90 days"
+  },
+  "insider|180": {
+   "filings_checked": 4,
+   "sales": 3,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "3 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 180 days"
+  },
+  "institutional": {
+   "qoq_change_pct": 1.8,
+   "top_holder": "Blackrock Inc.",
+   "summary": "Top 10 holders net +1.8% QoQ | largest: Blackrock Inc. 5.4%"
+  },
+  "dilution": {
+   "diluted_shares_b": 3.54,
+   "sbc_pct_rev": 3.0,
+   "buyback_usd_b": 0.0,
+   "net_share_change_pct": 0.4
+  },
+  "valuation": {
+   "fwd_pe": 159.2,
+   "ev_ebitda": 135.2,
+   "fcf_yield_pct": 0.4
+  },
+  "price_history": {
+   "bars": 251,
+   "last_close": 343.69,
+   "last_date": "2026-11-05"
+  },
+  "technicals": {
+   "spot": 343.69,
+   "dma50": 372.07,
+   "dma200": 384.32,
+   "rsi14": 35.8,
+   "vwap": 380.23
+  },
+  "market|{}": {
+   "realized_vol": 0.456,
+   "beta": 2.11,
+   "max_corr_holding": null,
+   "max_corr": 0.0,
+   "corr_to_portfolio": 0.0
+  },
+  "quote": {
+   "bid": 343.68,
+   "ask": 343.7
+  },
+  "close": 343.69,
+  "source|filings|": [
+   "SEC EDGAR filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1318605&owner=include&count=40"
+  ],
+  "source|financials|": [
+   "10-Q filed 2026-10-22",
+   "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/"
+  ],
+  "source|insider|": [
+   "SEC Form 4 filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1318605&type=4&owner=include&count=40"
+  ],
+  "source|institutional|": [
+   "Yahoo Finance holders",
+   "https://finance.yahoo.com/quote/TSLA/holders"
+  ],
+  "source|dilution|": [
+   "10-Q filed 2026-10-22",
+   "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/"
+  ],
+  "source|valuation|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/TSLA"
+  ],
+  "source|price|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/TSLA"
+  ],
+  "source|technicals|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/TSLA"
+  ],
+  "source|section|10-K": [
+   "10-K filed 2026-01-29",
+   "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"
+  ],
+  "source|section|10-Q": [
+   "10-Q filed 2026-10-22",
+   "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm"
+  ]
+ }
+}
