@@ -170,7 +170,7 @@ class ResearchDossier(Contract):
 
     @model_validator(mode="after")
     def _conviction_is_base_plus_adjustment(self) -> ResearchDossier:
-        expected = round(self.scorecard.base_score + self.llm_adjustment, 1)
+        expected = round(min(10.0, max(0.0, self.scorecard.base_score + self.llm_adjustment)), 1)  # kept inside 0–10 (D-046)
         if abs(self.conviction_score - expected) > 1e-9:
             raise ValueError(f"conviction_score {self.conviction_score} != base + adjustment {expected}")
         return self

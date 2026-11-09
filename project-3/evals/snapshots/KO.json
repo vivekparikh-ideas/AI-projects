@@ -1,0 +1,158 @@
+{
+ "ticker": "KO",
+ "as_of": "2026-11-05",
+ "recorded_at": "2026-11-06T02:31:32+00:00",
+ "recorded_from": "live",
+ "calls": {
+  "company": "The Coca-Cola Company",
+  "filings": [
+   {
+    "form": "10-Q",
+    "date": "2026-10-28"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-27"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-02-20"
+   }
+  ],
+  "financials|1": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 13.38,
+   "revenue_growth_pct": 7.4,
+   "gross_margin_pct": 63.2,
+   "sbc_pct_rev": 0.6,
+   "net_share_change_pct": 0.0,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 7.41,
+   "net_income_usd_b": 13.11,
+   "receivables_growth_pct": -9.5
+  },
+  "financials|4": {
+   "period": "CY2026Q3",
+   "revenue_q_usd_b": 13.38,
+   "revenue_growth_pct": 7.4,
+   "gross_margin_pct": 63.2,
+   "sbc_pct_rev": 0.6,
+   "net_share_change_pct": 0.0,
+   "cash_flow_year": "CY2025",
+   "operating_cash_flow_usd_b": 7.41,
+   "net_income_usd_b": 13.11,
+   "receivables_growth_pct": -9.5,
+   "gross_margin_4q": [
+    61.5,
+    63.0,
+    62.9,
+    63.2
+   ]
+  },
+  "section|10-K|risk_factors": "[10-K filed 2026-02-20] In addition to the other information set forth in this report, you should carefully consider the following factors, which could materially affect our business, financial condition and results of operations in future periods. The risks described below are not the only risks facing our Company. Additional risks not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or results of operations in future periods. RISKS RELATED TO OUR OPERATIONS Unfavorable general economic and geopolitical conditions could negatively impact our financial results. Our business, operating results, financial condition and liquidity may be adversely affected by changes in global economic conditions, including global inflationary pressures, prevailing interest rates, credit market conditions, increased unemployment, levels of consumer and business confidence, bank failures, commodity (including energy) prices and supply, a recession or economic slowdown, trade policies, foreign currency exchange rates, changing policy positions or priorities, governmental rules and approaches to taxation, levels of government spending and deficits, and actual or anticipated default on sovereign debt. Many of the jurisdictions in which our products are sold have experienced, and could continue to experience, unfavorable changes in economic conditions, which could negatively affect the affordability of, and consumer demand for, our beverages, and certain markets in which our products are sold experienced high rates of inflation throughout 2025, which may continue in 2026. Under difficult economic conditions, consumers may seek to reduce discretionary spending by forgoing purchases of our products or by shifting away from our beverages to lower-priced products offered by other companies, including private-label brands, which could reduce our profitability and negatively affect our overall financial performance. In addition, the occurrence of global or regional health events, and any related governmental, private sector and individual consumer responses, could contribute to a recession, depression or global economic downturn. Other financial uncertainties in our major markets and unstable geopolitical conditions or events in certain markets, including international conflicts, civil unrest, acts of war, terrorism, governmental changes, or changes in international relations, could undermine global consumer confidence and re",
+  "section|10-K|mda": "[10-K filed 2026-02-20] AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand The Coca-Cola Company, our operations and our present business environment. MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying notes thereto contained in “Item 8. Financial Statements and Supplementary Data” of this report. MD&A includes the following sections: •Our Business — a general description of our business and its challenges and risks. •Critical Accounting Policies and Estimates — a discussion of accounting policies that require critical judgments and estimates. 35 •Operations Review — an analysis of our consolidated results of operations for 2025 and 2024 and year-to-year comparisons between 2025 and 2024. An analysis of our consolidated results of operations for 2024 and 2023 and year-to-year comparisons between 2024 and 2023 can be found in Exhibit 99.1 to the Company’s Current Report on Form 8-K filed on June 26, 2025. •Liquidity, Capital Resources and Financial Position — an analysis of cash flows, contractual obligations, foreign exchange, and the impact of inflation and changing prices. OUR BUSINESS General The Coca-Cola Company is a total beverage company, and beverage products bearing our trademarks, sold in the United States since 1886, are now sold in more than 200 countries and territories. We own or license and market numerous beverage brands, which we group into the following categories: Trademark Coca-Cola; sparkling flavors; water, sports, coffee and tea; juice, value-added dairy and plant-based beverages; and emerging beverages. We own and market several of the world’s largest nonalcoholic sparkling soft drink brands, including Coca-Cola, Sprite, Coca-Cola Zero Sugar, Fanta and Diet Coke/Coca-Cola Light. We make our branded beverage products available to consumers throughout the world through our network of independent bottling partners, distributors, wholesalers and retailers as well as the Company’s consolidated bottling and distribution operations. Beverages bearing trademarks owned by or licensed to us account for 2.2 billion of the estimated 65 billion servings of all beverages consumed worldwide every day. We believe our success depends on our ability to connect with consumers by providing them with a wide variety of beverage options",
+  "section|10-Q|risk_factors": "[10-Q filed 2026-10-28] In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025, which could materially affect our business, financial condition or future results. The risks described in this report and in our Annual Report on Form 10-K are not the only risks facing our Company. Additional risks and uncertainties not currently known to us, or that we currently deem to be immaterial, could also materially adversely affect our business, financial condition or future results. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds The following table presents information with respect to purchases of common stock of the Company made during the three months ended October 2, 2026 by the Company or any “affiliated purchaser” of the Company as defined in Rule 10b-18(a)(3) under the Exchange Act: Period Total Number of Shares Purchased1Average Price Paid Per Share Total Number of Shares Purchased as Part of the Publicly Announced Plan2Maximum Number of Shares That May Yet Be Purchased Under the Publicly Announced Plan July 4, 2026 through July 31, 2026538,615 $83.86 536,300 59,148,814 August 1, 2026 through August 28, 20261,085,783 88.60 1,085,783 58,063,031 August 29, 2026 through October 2, 20261,110,655 87.94 1,110,145 56,952,886 Total2,735,053 $87.40 2,732,228 1The total number of shares purchased includes: (1) shares purchased, if any, pursuant to the plan described in footnote 2 below and (2) shares surrendered, if any, to the Company to pay the exercise price and/or to satisfy tax withholding obligations in connection with stock swap exercises of employee stock options and/or the vesting of restricted stock issued to employees. 2In February 2019, the Company publicly announced that our Board of Directors had authorized a plan (“2019 Plan”) for the Company to purchase up to 150 million shares of our common stock. This column discloses the number of shares purchased, if any, pursuant to the 2019 Plan during the indicated time periods (including shares purchased pursuant to the terms of preset trading plans meeting the requirements of Rule 10b5-1 under the Exchange Act). Item 5. Other Information During the fiscal quarter ended October 2, 2026, none of our Directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted or terminated a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 tr",
+  "section|10-Q|mda": "[10-Q filed 2026-10-28] and Analysis of Financial Condition and Results of Operations When used in this report, the terms “The Coca-Cola Company,” “Company,” “we,” “us” and “our” mean The Coca-Cola Company and all entities included in our consolidated financial statements. CRITICAL ACCOUNTING POLICIES AND ESTIMATES Recoverability of Equity Method Investments and Indefinite-Lived Intangible Assets Our Company faces many uncertainties and risks related to various economic, political and regulatory environments in the countries and territories in which we operate, particularly in developing and emerging markets. Refer to the headings “Item 1A. Risk Factors” in Part I and “Our Business — Challenges and Risks” in Part II of our Annual Report on Form 10-K for the year ended December 31, 2025, as well as the heading “Operations Review” below, for additional information related to our present business environment. As a result, management must make numerous assumptions, which involve a significant amount of judgment, when performing impairment tests of equity method investments and indefinite-lived intangible assets in various regions around the world. The performance of impairment tests involves critical accounting estimates. These estimates require significant management judgment and include inherent uncertainties. Factors that management must estimate include, among others, the economic lives of the assets, sales volume, pricing, royalty rates, cost of raw materials, delivery costs, long-term growth rates, discount rates, marketing spending, foreign currency exchange rates, tax rates, capital spending and proceeds from the sale of assets. The variability of these factors depends on a number of conditions, and thus our accounting estimates may change from period to period. These factors are even more difficult to estimate given the highly volatile global financial markets. As these factors are often interdependent and may not change in isolation, we do not believe it is practicable or meaningful to present the impact of changing a single factor. During the three months ended December 31, 2025, the operating results related to our BodyArmor sports performance and hydration beverage business, combined with lower expectations of future performance compared to the original forecasts, triggered the need to update the Company’s impairment analysis, including a reassessment of the business projections for the trademark. Based on this assessment, the Company concluded that the fair value of the",
+  "insider|30": {
+   "filings_checked": 1,
+   "sales": 1,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "1 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 30 days"
+  },
+  "insider|90": {
+   "filings_checked": 5,
+   "sales": 5,
+   "planned_sales": 0,
+   "open_market_buys": 0,
+   "summary": "5 Form 4 filings with sales (0 under 10b5-1 plans) | 0 open-market buys in 90 days"
+  },
+  "insider|180": {
+   "filings_checked": 16,
+   "sales": 15,
+   "planned_sales": 7,
+   "open_market_buys": 0,
+   "summary": "15 Form 4 filings with sales (7 under 10b5-1 plans) | 0 open-market buys in 180 days"
+  },
+  "institutional": {
+   "qoq_change_pct": -0.1,
+   "top_holder": "Berkshire Hathaway, Inc",
+   "summary": "Top 10 holders net -0.1% QoQ | largest: Berkshire Hathaway, Inc 9.3%"
+  },
+  "dilution": {
+   "diluted_shares_b": 4.31,
+   "sbc_pct_rev": 0.6,
+   "buyback_usd_b": 0.7,
+   "net_share_change_pct": 0.0
+  },
+  "valuation": {
+   "fwd_pe": 27.1,
+   "ev_ebitda": 25.2,
+   "fcf_yield_pct": 1.1
+  },
+  "price_history": {
+   "bars": 251,
+   "last_close": 95.73,
+   "last_date": "2026-11-05"
+  },
+  "technicals": {
+   "spot": 95.73,
+   "dma50": 89.69,
+   "dma200": 81.9,
+   "rsi14": 64.7,
+   "vwap": 93.28
+  },
+  "market|{}": {
+   "realized_vol": 0.19,
+   "beta": -0.24,
+   "max_corr_holding": null,
+   "max_corr": 0.0,
+   "corr_to_portfolio": 0.0
+  },
+  "quote": {
+   "bid": 95.33,
+   "ask": 95.76
+  },
+  "close": 95.73,
+  "source|filings|": [
+   "SEC EDGAR filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21344&owner=include&count=40"
+  ],
+  "source|financials|": [
+   "10-Q filed 2026-10-28",
+   "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/"
+  ],
+  "source|insider|": [
+   "SEC Form 4 filings",
+   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21344&type=4&owner=include&count=40"
+  ],
+  "source|institutional|": [
+   "Yahoo Finance holders",
+   "https://finance.yahoo.com/quote/KO/holders"
+  ],
+  "source|dilution|": [
+   "10-Q filed 2026-10-28",
+   "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/"
+  ],
+  "source|valuation|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/KO"
+  ],
+  "source|price|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/KO"
+  ],
+  "source|technicals|": [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/quote/KO"
+  ],
+  "source|section|10-K": [
+   "10-K filed 2026-02-20",
+   "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm"
+  ],
+  "source|section|10-Q": [
+   "10-Q filed 2026-10-28",
+   "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/ko-20261002.htm"
+  ]
+ }
+}

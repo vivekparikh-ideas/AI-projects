@@ -1,6 +1,7 @@
 """Market and filings data behind one interface (D-030).
 
-`fixture` serves the M1 sample data (tests, no network); `live` serves SEC EDGAR + yfinance.
+`fixture` serves the M1 sample data (tests, no network); `live` serves SEC EDGAR + yfinance;
+`snapshot` (`nexus/data/snapshot.py`) replays a recorded ticker for evals, installed with `set_provider()`.
 Tools call `provider()`; the CLI picks the provider once per process with `use()`.
 """
 
@@ -44,6 +45,13 @@ def use(name: str) -> DataProvider:
         _current = LiveProvider()
     else:
         raise ValueError(f"unknown data provider {name!r} (fixture | live)")
+    return _current
+
+
+def set_provider(p: DataProvider) -> DataProvider:
+    """Install a provider object directly; evals use it for a `SnapshotProvider` per case (D-045)."""
+    global _current
+    _current = p
     return _current
 
 

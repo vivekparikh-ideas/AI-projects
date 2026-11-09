@@ -13,8 +13,12 @@ design/promo/
 *.wav
 node_modules/
 
-# Generated eval output (rerun with evals/run_evals.py)
-evals/results/
+# Generated eval output (rerun with evals/run_evals.py). Only the accepted baseline is kept,
+# so a fresh clone can compare new runs with it. After `report.py --accept`, update the two run lines.
+evals/results/*
+!evals/results/BASELINE
+!evals/results/2026-11-06-1911.json
+!evals/results/2026-11-06-1911.html
 
 # Secrets: keep any .env.example, ignore every other variant
 .env.*

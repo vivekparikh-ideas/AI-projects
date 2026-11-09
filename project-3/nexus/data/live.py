@@ -23,7 +23,8 @@ from nexus.tools import indicators as ind
 
 warnings.filterwarnings("ignore", message=r".*inplace.*")  # pandas deprecation noise raised inside yfinance
 
-REVENUE_TAGS = ("Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax", "SalesRevenueNet")
+# Banks report net revenue as RevenuesNetOfInterestExpense; JPM's "Revenues" tag stops in 2014 (D-047).
+REVENUE_TAGS = ("Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax", "SalesRevenueNet", "RevenuesNetOfInterestExpense")
 _QUARTER = re.compile(r"^CY(\d{4})Q([1-4])$")
 _YEAR = re.compile(r"^CY(\d{4})$")
 _INSTANT = re.compile(r"^CY(\d{4})Q([1-4])I$")
